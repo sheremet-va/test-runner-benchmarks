@@ -22,6 +22,9 @@
     "happy-dom": "<16.0.0",
     "vitest": "3.2.3"
   },
+  "resolutions": {
+    "vite": "npm:rolldown-vite@latest"
+  },
   "comments": {
     "happy-dom": "Cannot upgrade to 13.x due to https://github.com/vitest-dev/vitest/issues/5392"
   }
